@@ -1,0 +1,20 @@
+/* css styles */
+/* style.css */
+
+body {
+  background-color: #f0f8ff; /* light blue background */
+  color: #000000; /* black text */
+}
+
+h1, h2, h3, h4 {
+  color: #007BFF; /* deep blue headers */
+}
+
+a {
+  color: #FFC300; /* yellow links */
+}
+
+.tocify {
+  background-color: #007BFF; /* blue table of contents */
+  color: white;
+}
