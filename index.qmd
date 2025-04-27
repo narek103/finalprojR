@@ -1,6 +1,6 @@
 ---
 title: "Դոնալդ Թրամփի Մաքսատուրքերն ու Տնտեսությունը"
-author: "Քո Անունը"
+author: "Narek"
 date: "`r Sys.Date()`"
 output: 
   html_document:
